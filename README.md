@@ -30,26 +30,33 @@ The purpose of this project is create a classification model capable of identify
 
 ## Getting Started
 
+  ### 1. Clone App
+  
+ 
+     $ git clone git@github.com:akarshsinghh/Heart-Failure-Classification.git
+ 
+    
+ ### 2. Move in Directory
+  
+     $ cd Heart-Failure-Classification
+   
+    
+ ### 3. Install node packages
+   
+   $ npm install 
+  
+  
+   ### 4. Run Locally 
+   ```
+   $ npm start  
+  ```
+  NOTE: The port by default will be ```http://localhost:3000/```
+  
+  ### Alternatively one can simply download the notebook and dataset, open in platforms like Jupyter, Collab, and Run each cell to see results!
 
 
-## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
-
-
-## Contributing DSWG Members
-
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
 
 ## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
+
 * Feel free to contact team leads with any questions or if you are interested in contributing!
+* https://www.linkedin.com/in/akarshsinghh/
